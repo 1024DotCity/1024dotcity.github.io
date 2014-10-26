@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://1024.city
+title: 1GB - 你懂得! 
+subtitle: 1024.CITY
+author: 1024.city 
 simple_search: https://www.google.com/search
 description:
 
@@ -99,3 +99,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+
+auto: true
