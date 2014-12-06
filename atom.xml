@@ -4,7 +4,7 @@
   <title><![CDATA[1024 - 你懂得!]]></title>
   <link href="http://1024.city/atom.xml" rel="self"/>
   <link href="http://1024.city/"/>
-  <updated>2014-10-26T11:35:49+08:00</updated>
+  <updated>2014-12-06T18:53:39+08:00</updated>
   <id>http://1024.city/</id>
   <author>
     <name><![CDATA[1GB]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[1024社区－startup]]></title>
+    <link href="http://1024.city/blog/2014/12/06/1024dotcity-startup/"/>
+    <updated>2014-12-06T18:32:19+08:00</updated>
+    <id>http://1024.city/blog/2014/12/06/1024dotcity-startup</id>
+    <content type="html"><![CDATA[<p>程序猿的生活社区，我们的理念是:</p>
+
+<blockquote><p>只谈生活，不谈工作！</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
